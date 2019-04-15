@@ -1,7 +1,7 @@
 kube-notebooks
 ==============
 
-[![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/InfuseAI/kube-notebooks/master?filepath=index.ipynb)
+[![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/InfuseAI/kube-notebooks/master?urlpath=lab/tree/index.ipynb)
 
 Notebooks for working with kubernetes clusters
 
